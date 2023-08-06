@@ -1,0 +1,13 @@
+2023-08-06 06:40:34.473574 - Initialized conversion of CBT716
+2023-08-06 06:40:34.548000 - Received CBT.V505.FILE716.PDS from FILE716.XMI 
+2023-08-06 06:40:34.550128 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:40:34.551392 - Found $ARTICLE.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$ARTICLE
+2023-08-06 06:40:34.552414 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$PDSLOAD
+2023-08-06 06:40:34.553269 - Found @FILE716.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/@FILE716
+2023-08-06 06:40:34.554139 - Found CLCPQENQ.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/CLCPQENQ
+2023-08-06 06:40:34.555095 - Found ENQ.rexx (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ
+2023-08-06 06:40:34.555915 - Found ENQ@.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ@
+2023-08-06 06:40:34.556706 - Found ENQ00.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ00
+2023-08-06 06:40:34.562177 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE716.PDS
+2023-08-06 06:40:34.568800   - Received RECFM=U data, stored XMIT file as CBT716/PDSLOAD.xmi
+2023-08-06 06:40:34.569683 - Found WHOHAS.rexx (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/WHOHAS
