@@ -1,13 +1,13 @@
-2025-04-13 22:04:23.877922 - Received CBT.V505.FILE716.PDS from FILE716.XMI 
-2025-04-13 22:04:23.879096 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:04:23.879208 - Found $ARTICLE.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$ARTICLE
-2025-04-13 22:04:23.879289 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$PDSLOAD
-2025-04-13 22:04:23.879368 - Found @FILE716.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/@FILE716
-2025-04-13 22:04:23.879444 - Found CLCPQENQ.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/CLCPQENQ
-2025-04-13 22:04:23.879533 - Found ENQ.rexx (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ
-2025-04-13 22:04:23.879612 - Found ENQ@.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ@
-2025-04-13 22:04:23.879692 - Found ENQ00.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ00
-2025-04-13 22:04:23.879772 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE716.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-13 22:04:23.887333 - Received WSBG.LOAD from PDSLOAD.xmi 
-2025-04-13 22:04:23.887749 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
-2025-04-13 22:04:23.887946 - Found WHOHAS.rexx (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/WHOHAS
+2025-04-15 04:57:51.861174 - Received CBT.V505.FILE716.PDS from FILE716.XMI 
+2025-04-15 04:57:51.862730 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:57:51.863108 - Found $ARTICLE.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$ARTICLE
+2025-04-15 04:57:51.863299 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/$PDSLOAD
+2025-04-15 04:57:51.863502 - Found @FILE716.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/@FILE716
+2025-04-15 04:57:51.863722 - Found CLCPQENQ.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/CLCPQENQ
+2025-04-15 04:57:51.864135 - Found ENQ.rexx (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ
+2025-04-15 04:57:51.864345 - Found ENQ@.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ@
+2025-04-15 04:57:51.864539 - Found ENQ00.txt (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/ENQ00
+2025-04-15 04:57:51.864730 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE716.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-15 04:57:51.870126 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-15 04:57:51.870654 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-15 04:57:51.870966 - Found WHOHAS.rexx (text/plain) in CBT.V505.FILE716.PDS, moved to PDS/WHOHAS
